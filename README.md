@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frdayvz85&label=Profile%20views&color=0e75b6&style=flat" alt="frdayvz85" /> </p>
 
-- 🌱 I’m currently learning **Blockchain,AWS**
+- 🌱 I’m currently learning **DevOps,AWS**
 
 - 👨‍💻 All of my projects are available at [https://gitlab.com/users/farid85/projects](https://gitlab.com/users/farid85/projects)
 
